@@ -24,6 +24,6 @@ allowing modifications from both the container and the host.
 ## TODO
 
 Please note that the "stop" and "clean" commands have not been implemented yet. 
-Use the make prune command only if you fully understand its implications.
+Use the `make prune` command only if you fully understand its implications.
 
 > Lenart
